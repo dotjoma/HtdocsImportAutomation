@@ -4,5 +4,6 @@ Your github root directory should have database folder with your actual database
 
 ├── some_folders    
 ├── database/
+
 │   └── your_database.sql
 └── index.php            
